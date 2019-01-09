@@ -1,2 +1,0 @@
-# MEVN
-MEVN app
